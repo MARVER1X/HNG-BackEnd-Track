@@ -6,7 +6,7 @@ A lightweight REST API built with FastAPI that integrates with the Genderize.io 
 
 ## 🔗 Live API
 
-web-production-575cc.up.railway.app
+https://web-production-575cc.up.railway.app
 
 
 ## 📌 Endpoint
